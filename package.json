@@ -1,0 +1,27 @@
+{
+  "name": "odoql-yaml",
+  "version": "1.0.0",
+  "description": "YAML for OdoQL",
+  "main": "index.js",
+  "dependencies": {
+    "js-yaml": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odojs/odoql-yaml.git"
+  },
+  "keywords": [
+    "graph",
+    "query"
+  ],
+  "author": "Thomas Coats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/odoql-yaml/issues"
+  },
+  "homepage": "https://github.com/odojs/odoql-yaml#readme"
+}
